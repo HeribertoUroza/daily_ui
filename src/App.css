@@ -1,0 +1,4 @@
+.app_container {
+  display: grid;
+  grid-template-rows: 15% 85%;
+}
