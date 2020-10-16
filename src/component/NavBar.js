@@ -6,7 +6,49 @@ function NavBar() {
     return (
         <>
             <div className='nav_container'>
-                <Link to='/001'>001</Link>
+                <span className='nav_links'>
+                    <Link to='/001'>001</Link>
+                </span>
+                <span className='nav_links'>
+                    <Link to='/001'>001</Link>
+                </span>
+                <span className='nav_links'>
+                    <Link to='/001'>001</Link>
+                </span>
+                <span className='nav_links'>
+                    <Link to='/001'>001</Link>
+                </span>
+                <span className='nav_links'>
+                    <Link to='/001'>001</Link>
+                </span>
+                <span className='nav_links'>
+                    <Link to='/001'>001</Link>
+                </span>
+                <span className='nav_links'>
+                    <Link to='/001'>001</Link>
+                </span>
+                <span className='nav_links'>
+                    <Link to='/001'>001</Link>
+                </span>
+                <span className='nav_links'>
+                    <Link to='/001'>001</Link>
+                </span>
+                <span className='nav_links'>
+                    <Link to='/001'>001</Link>
+                </span>
+                <span className='nav_links'>
+                    <Link to='/001'>001</Link>
+                </span>
+                <span className='nav_links'>
+                    <Link to='/001'>001</Link>
+                </span>
+                <span className='nav_links'>
+                    <Link to='/001'>001</Link>
+                </span>
+                <span className='nav_links'>
+                    <Link to='/001'>001</Link>
+                </span>
+                
             </div>
         </>
     )
