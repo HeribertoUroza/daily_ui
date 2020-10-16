@@ -2,10 +2,11 @@ import React from 'react';
 import { HashRouter, Switch, Route } from 'react-router-dom';
 
 // COMPONENT
-import NavBar from './component/NavBar.js';
+import NavBar from './component/NavBar';
 
 // CONTAINERS
-import _001 from './container/001/001.js';
+import LandingPage from './container/LandingPage/LandingPage'
+import _001 from './container/001/001';
 
 function App() {
   return (
@@ -15,7 +16,8 @@ function App() {
         <NavBar />
         
           <Switch>
-            <Route path='/001' component={_001} />
+            <Route path='/' exact component={ LandingPage } />
+            <Route path='/001' exact component={ _001 } />
           </Switch>
         
       </div>

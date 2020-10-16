@@ -7,43 +7,7 @@ function NavBar() {
         <>
             <div className='nav_container'>
                 <span className='nav_links'>
-                    <Link to='/001'>001</Link>
-                </span>
-                <span className='nav_links'>
-                    <Link to='/001'>001</Link>
-                </span>
-                <span className='nav_links'>
-                    <Link to='/001'>001</Link>
-                </span>
-                <span className='nav_links'>
-                    <Link to='/001'>001</Link>
-                </span>
-                <span className='nav_links'>
-                    <Link to='/001'>001</Link>
-                </span>
-                <span className='nav_links'>
-                    <Link to='/001'>001</Link>
-                </span>
-                <span className='nav_links'>
-                    <Link to='/001'>001</Link>
-                </span>
-                <span className='nav_links'>
-                    <Link to='/001'>001</Link>
-                </span>
-                <span className='nav_links'>
-                    <Link to='/001'>001</Link>
-                </span>
-                <span className='nav_links'>
-                    <Link to='/001'>001</Link>
-                </span>
-                <span className='nav_links'>
-                    <Link to='/001'>001</Link>
-                </span>
-                <span className='nav_links'>
-                    <Link to='/001'>001</Link>
-                </span>
-                <span className='nav_links'>
-                    <Link to='/001'>001</Link>
+                    <Link to='/'>Landing</Link>
                 </span>
                 <span className='nav_links'>
                     <Link to='/001'>001</Link>
