@@ -6,6 +6,7 @@
 
 ### ::002 Design a credit card checkout form or page. Don't forget the important elements such as the numbers, dates, security numbers, etc.
 
+### ::003 What's the main focus? Is it for a book, an album, a mobile app, a product? Consider important landing page elements (call-to-actions, clarity, etc.)
 
 <br />
 <hr />
