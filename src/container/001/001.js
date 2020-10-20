@@ -1,9 +1,24 @@
-import React from 'react';
+import React, { useState } from 'react';
 
 function _001() {
+    const [ descOrCont, getDescOrCont ] = useState(false);
+
+    // FUNCTION TO SWITCH BETWEEN DESCRIPTION OR CONTENT
+    const handleDescOrCont = _=> {
+        descOrCont ? getDescOrCont(false) : getDescOrCont(true)
+    }
+
+
     return (
         <>
-            001 CONTENT
+            <button onClick={handleDescOrCont}>Description</button>
+
+            {
+                descOrCont ? 
+                <>DESCRIPTION</>
+                :
+                <>CONTENT</>
+            }
         </>
     )    
 }

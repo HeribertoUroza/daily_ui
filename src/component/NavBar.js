@@ -7,10 +7,10 @@ function NavBar() {
         <>
             <div className='nav_container'>
                 <span className='nav_links'>
-                    <Link to='/'>Landing</Link>
+                    <Link to='/'>Intro</Link>
                 </span>
                 <span className='nav_links'>
-                    <Link to='/001'>001</Link>
+                    <Link to='/001'>#001</Link>
                 </span>
                 
             </div>
