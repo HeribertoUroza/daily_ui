@@ -2,10 +2,19 @@
     width: 100%;
     overflow: scroll;
     height: 5vh;
+    padding-top: 1%;
 }
 
 .nav_links {
     font-size: 1.2rem;
     padding-left: 2%;
     padding-right: 2%;
+    text-decoration: none;
+    font-family: 'Oswald', sans-serif;
+    border: 2px solid black;
+    border-top-right-radius: 20px;
+}
+
+.nav_first {
+    border-right: none !important;
 }

@@ -11,7 +11,7 @@ function LandingPage() {
                     <br/>
                     Click the tabs above to see the different UI's I created along with their description.
                     <br/>
-                    My <strong className='landing_bold'>Goal</strong> is to practice CSS and improve my UI creating skills with each design.
+                    My <strong className='landing_bold'>Goal</strong> is to practice CSS and improve my UI developing skills with each design.
                 </div>
             </div>
         </>

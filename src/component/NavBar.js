@@ -6,11 +6,19 @@ function NavBar() {
     return (
         <>
             <div className='nav_container'>
-                <span className='nav_links'>
-                    <Link to='/'>Intro</Link>
+                <span>
+                    <Link 
+                        to='/' 
+                        className='nav_links nav_first' 
+                        >Intro
+                    </Link>
                 </span>
-                <span className='nav_links'>
-                    <Link to='/001'>#001</Link>
+                <span>
+                    <Link 
+                        to='/001'
+                        className='nav_links'
+                        >#001
+                    </Link>
                 </span>
                 
             </div>
