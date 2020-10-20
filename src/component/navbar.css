@@ -1,6 +1,7 @@
 .nav_container {
     width: 100%;
     overflow: scroll;
+    height: 5vh;
 }
 
 .nav_links {

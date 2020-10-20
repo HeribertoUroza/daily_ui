@@ -1,0 +1,21 @@
+.landing_container {
+    text-align: center;
+    display: grid;
+    grid-template-rows: 15vh 70vh;
+}
+
+.landing_title {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.landing_body {
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.75rem;
+    line-height: 2.75rem;
+    padding-left: 5%;
+    padding-right: 5%;
+}
+
+.landing_body strong {
+    font-weight: 900;
+}
