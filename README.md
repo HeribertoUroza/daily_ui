@@ -1,4 +1,8 @@
-# Daily UI Challenge
+[![Netlify Status](https://api.netlify.com/api/v1/badges/2e40ce83-04ed-45da-8ffe-e37acc33f5e9/deploy-status)](https://app.netlify.com/sites/lucid-hamilton-1c1ff3/deploys)
+
+# Daily UI Challenge [Live Site](https://lucid-hamilton-1c1ff3.netlify.app/#/)
+
+
 [Click Here](https://www.dailyui.co/) for more information about the Daily UI Challenge
 
 ### ::001 Create a sign up page, modal, form, or app screen related to signing up for something. It could be for a volunteer event, contest registration, a giveaway, or anything you can image.
