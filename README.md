@@ -7,11 +7,11 @@
 
 ### ::001 Create a sign up page, modal, form, or app screen related to signing up for something. It could be for a volunteer event, contest registration, a giveaway, or anything you can image.
 
-
 ### ::002 Design a credit card checkout form or page. Don't forget the important elements such as the numbers, dates, security numbers, etc.
 
 ### ::003 What's the main focus? Is it for a book, an album, a mobile app, a product? Consider important landing page elements (call-to-actions, clarity, etc.)
 
+### ::004 Design a calculator. Standard, scientific, or specialty calculator for something such as a mortgage? Is it for a phone, a tablet, a web app?
 <br />
 <hr />
 
