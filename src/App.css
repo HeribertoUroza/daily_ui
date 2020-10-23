@@ -1,4 +1,29 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
 .app_container {
   display: grid;
-  grid-template-rows: 15% 85%;
+  grid-template-rows: 8% 85%;
+}
+
+.desc_container {
+  display: grid;
+  grid-template-rows: 10% 20% 75%;
+  padding-top: 5%;
+}
+
+.desc_title {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+}
+
+.desc_body {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.75rem;
+  line-height: 2.75rem;
+  padding-left: 5%;
+  padding-right: 5%;
+  text-align: center;
 }
