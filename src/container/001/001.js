@@ -38,6 +38,7 @@ function _001() {
                                         className='_001_image'
                                         alt='product'
                                     />
+                                    <p className='_001_bio_1'>Register for a chance to WIN these next gen headphones!</p>
                                 </div>
                                 <form className='_001_form'>
                                     
