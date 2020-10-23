@@ -1,0 +1,35 @@
+/* .desc_container {
+  display: grid;
+  grid-template-rows: 5vh 10vh 70vh;
+}
+
+.desc_title {
+  text-align: center;
+} */
+
+.cont_container {
+  display: grid;
+  grid-template-rows: 10% 75%;
+  padding-top: 5%;
+  width: 100%;
+
+}
+
+._001_content {
+  display: grid;
+  margin-top: 2%;
+  
+}
+
+._001_image {
+  width: 100%;
+
+}
+
+._001_form {
+  display: grid;
+  grid-template-rows: 1fr 1fr 1fr;
+  padding-left: 10%;
+  padding-right: 10%;
+  margin-top: 5%;
+}
