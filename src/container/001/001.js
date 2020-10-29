@@ -17,8 +17,10 @@ function _001() {
             {
                 !descOrCont ?
                     <> 
+                    <div className='desc_button_con'>
+                        <button className='desc_button' onClick={handleDescOrCont}>Check Out Content</button>
+                    </div>
                         <div className='desc_container'>
-                            <button className='desc_button' onClick={handleDescOrCont}>Check Out Content</button>
                         
                             <h1 className='desc_title'>::001</h1>
 
@@ -29,8 +31,10 @@ function _001() {
                     </>
                 :
                     <>
-                        <div className='cont_container'>
+                        <div className='desc_button_con'>
                             <button className='desc_button' onClick={handleDescOrCont}>Check Out Description</button>
+                        </div>
+                        <div className='cont_container'>
                             <div className='_001_content'>
                                 <div className='_001_product'>
                                     <img 
