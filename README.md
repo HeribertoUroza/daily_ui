@@ -21,6 +21,8 @@
 
 ### ::008 Design a 404 page. Does it suit the brand's style? Is it user-friendly? It might sound mundane, but not evertyhing can be flash or glamorous. Every day millions of people will be landing on 404 pages. You have an opportunity to help them in a way that's useful and asthetically pleasing.(It's up to you!)
 
+### ::009 Design a music player. Consider the controls, placements, imagery such as the artist or album cover, etc. Also, consider the device type that's playing the music. A dashboard in a tourbus, a smartwatch, or via a web browser. Each deveice type will have different requirements, features, and restrictions to consider.
+
 
 <br />
 <hr />
