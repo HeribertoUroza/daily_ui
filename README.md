@@ -25,6 +25,8 @@
 
 ### ::010 Design a social share button/icon and be mindful of the size, imagery, placement, and purpose for sharing.
 
+### ::011 Design a Flash Message with both the outcome for an error and success. Is it for a sign up form? A download/upload message? (As always, it's up to you!)
+
 <br />
 <hr />
 
