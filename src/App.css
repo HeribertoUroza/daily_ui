@@ -5,7 +5,7 @@
 
 .app_container {
   display: grid;
-  grid-template-rows: 8% 10% auto;
+  grid-template-rows: 4vh 5vh auto;
 }
 
 .desc_button_con {
