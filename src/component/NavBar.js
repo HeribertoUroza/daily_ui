@@ -14,6 +14,13 @@ function NavBar() {
                     </Link>
                 </span>
                 <span>
+                    <Link
+                        to='/002'
+                        className='nav_links'
+                    >#002
+                    </Link>
+                </span>
+                <span>
                     <Link 
                         to='/001'
                         className='nav_links'
