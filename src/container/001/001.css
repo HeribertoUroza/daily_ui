@@ -1,7 +1,5 @@
 .cont_container {
   display: grid;
-  grid-template-rows: 8% 90%;
-  
   width: 100%;
 
 }
@@ -17,20 +15,75 @@
 
 }
 
-._001_product {
+._001_product1 {
   position: relative;
 
 }
 
 ._001_bio_1 {
   position: absolute;
-  
+  top: 15%;
+  width: 50%;
+  line-height: 2.5rem;
+  left: 2%;
+  font-size: 1.5rem;
+}
+
+._001_product2 {
+  margin-top: -6px;
+  position: relative;
+}
+
+._001_bio_2 {
+  position: absolute;
+  left: 2%;
+  bottom: 5%;
+  line-height: 2.5rem;
+  font-size: 1.5rem;
+  width: 30%;
+  color: black;
 }
 
 ._001_form {
   display: grid;
-  grid-template-rows: 1fr 1fr 1fr;
+  grid-template-rows: 4vh 5vh 5vh;
   padding-left: 10%;
   padding-right: 10%;
-  margin-top: 5%;
+  margin-top: -35%;
+  position: relative;
+  grid-gap: 5%
+}
+
+._001_input {
+  border-left: none;
+  border-right: none;
+  border-top: none;
+  background-color: #ffe164;
+  padding-left: 2%;
+}
+
+._001_label {
+  position: absolute;
+  font-size: 1rem;
+  top: 10%;
+  left: 10%;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+
+._001_input:focus + ._001_label {
+  transform: translateY(-25%);
+  color: white;
+}
+
+._001_button {
+  background-color: #ffe164;
+  border: none;
+  border-radius: 10px;
+  font-size: 1.2rem;
+}
+
+._001_image1 {
+  filter: blur(3px);
 }
