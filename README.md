@@ -29,6 +29,8 @@
 
 ### ::012 Hint: Design an e-commerce shop. Is it simple for a local business or a large online retailer? Is it for clothing, shoes, handmade soap, or something else. Consider the brand, the products offered, product views, product options, desired actions (conversions, product views, etc.) and the users! (As always, it's up to you!) 
 
+### ::013 Design a Direct Messaging app, profile, or chatbox. Consider the parties involved in the messages, images, placement, and context of the messages. Are the messages for social purposes? Customer support? 
+
 <br />
 <hr />
 
